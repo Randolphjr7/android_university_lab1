@@ -90,4 +90,5 @@ public class BestSellerBooksFragment extends Fragment implements OnListFragmentI
     public void onItemClick(BestSellerBook item) {
         Toast.makeText(getContext(), "test", Toast.LENGTH_LONG).show();
     }
+
 }
